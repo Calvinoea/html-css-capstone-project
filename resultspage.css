@@ -146,10 +146,6 @@ h6 {
 }
 
 @media only screen and (max-width: 768px) {
-  body {
-    /* width: 171%; */
-  }
-
   .btn-result {
     margin-left: 75%;
   }
