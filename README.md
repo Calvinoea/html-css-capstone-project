@@ -26,7 +26,7 @@ It is an e-commerce sports store made for the sale of sporting goods.
 ## Live Project and Presentation
 
  
-[Video Presentation](https://youtu.be/mdjkBIl8lqE)
+[Video Presentation](https://youtu.be/mdjkBIl8lqE) |
 [Live App](https://orchid-thirsty-bittersweet.glitch.me/)
 
 
