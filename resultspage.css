@@ -1,0 +1,166 @@
+@import url("landingpage.css");
+
+.side-form {
+  margin-left: -13%;
+  background-color: #88888812;
+}
+
+.search-result {
+  width: 136%;
+}
+
+.btn-result {
+  background-color: #d35266;
+  margin-left: 87%;
+  margin-top: -9%;
+}
+
+.page-number {
+  margin-left: 32%;
+}
+
+.page-number ul {
+  display: flex;
+  justify-content: center;
+  list-style: none;
+}
+
+.page-number li {
+  margin: 0 5px;
+  background-color: #88888812;
+  border-radius: 10%;
+  padding: 1px 6px;
+}
+
+.page-number li:active {
+  background-color: #d35266;
+}
+
+.page-number li:hover {
+  color: #d35266;
+}
+
+.top {
+  background-color: #88888812;
+}
+
+.site-footer {
+  margin-top: 0% !IMPORTANT;
+}
+
+.carousel-item img {
+  height: 23rem;
+}
+
+.carousel-control-next-icon {
+  background-color: black;
+}
+
+.carousel-control-next {
+  background: none;
+}
+
+.carousel-control-prev {
+  background: none;
+}
+
+.carousel-control-prev-icon {
+  background-color: black;
+}
+
+.carousel-control-prev-icon i {
+  color: red;
+}
+
+.fa-plus {
+  margin-left: 93%;
+  background: #88888812;
+  margin-top: -10%;
+  padding: 2px 3px;
+  color: #888;
+}
+
+.typing {
+  animation: type 3s steps(60, end);
+}
+
+.magic {
+  animation: type 3s steps(60, end);
+  animation-delay: 2s;
+  animation-duration: 8s;
+}
+
+@keyframes type {
+  0% {
+    opacity: 10%;
+  }
+
+  50% {
+    opacity: 70%;
+  }
+
+  100% {
+    opacity: 100%;
+  }
+}
+
+@keyframes type2 {
+  0% {
+    width: 0;
+  }
+
+  50% {
+    width: 0;
+  }
+
+  100% {
+    width: 100;
+  }
+}
+
+@keyframes type3 {
+  0% {
+    width: 0;
+  }
+
+  50% {
+    width: 0;
+  }
+
+  100% {
+    width: 100;
+  }
+}
+
+.custom-input {
+  width: 12%;
+  height: 1%;
+}
+
+h6 {
+  color: #d35266;
+}
+
+.advert {
+  background-color: #d21818;
+}
+
+@media only screen and (max-width: 768px) {
+  body {
+    /* width: 171%; */
+  }
+
+  .btn-result {
+    margin-left: 75%;
+  }
+}
+
+@media only screen and (min-width: 768px) and (max-width: 1024px) {
+  .btn-result {
+    margin-left: 75%;
+  }
+
+  .carousel-item img {
+    height: 29rem;
+  }
+}
