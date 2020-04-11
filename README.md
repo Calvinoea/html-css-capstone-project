@@ -2,7 +2,7 @@
 
 
 
-Bootstrap- [Newsweek](https://newsweek.com/)  
+
   
 # What it does  
   
@@ -23,10 +23,11 @@ It is an e-commerce sports store made for the sale of sporting goods.
 - Font Awesome
 
   
-## Live Project  
+## Live Project and Presentation
 
-[Clone](https://amazing-colden-99bae9.netlify.com/)  
-
+ 
+[Video Presentation](https://youtu.be/mdjkBIl8lqE)
+[Live App](https://orchid-thirsty-bittersweet.glitch.me/)
 
 
 
