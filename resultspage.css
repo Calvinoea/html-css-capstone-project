@@ -5,6 +5,13 @@
   background-color: #88888812;
 }
 
+.first-check,
+.second-check,
+.third-check,
+.fourth-check {
+  margin-left: 17%;
+}
+
 .search-result {
   width: 136%;
 }
