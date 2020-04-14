@@ -27,7 +27,7 @@ It is an e-commerce sports store made for the sale of sporting goods.
 
  
 [Video Presentation](https://youtu.be/mdjkBIl8lqE) |
-[Live App](https://butter-super-humerus.glitch.me/)
+[Live App](https://marbled-frosted-dinosaur.glitch.me/)
 
 
 
