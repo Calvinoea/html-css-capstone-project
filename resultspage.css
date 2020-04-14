@@ -9,10 +9,24 @@
   width: 136%;
 }
 
+.home-item {
+  color: #d35266 !important;
+}
+
 .btn-result {
   background-color: #d35266;
   margin-left: 87%;
   margin-top: -9%;
+}
+
+.search-gear {
+  background-color: #383838;
+  border-color: #383838;
+  color: #888;
+}
+
+.search-gear:hover {
+  background-color: #d35266;
 }
 
 .page-number {
@@ -49,7 +63,8 @@
 }
 
 .carousel-item img {
-  height: 23rem;
+  height: 24rem;
+  width: 20rem !IMPORTANT;
 }
 
 .carousel-control-next-icon {
@@ -142,7 +157,7 @@ h6 {
 }
 
 .advert {
-  background-color: #d21818;
+  background-color: #d35266;
 }
 
 @media only screen and (max-width: 768px) {
