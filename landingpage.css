@@ -3,6 +3,39 @@ body {
   background: #88888812;
 }
 
+@media (min-width: 1057px) and (max-width: 1400px) {
+  .carousel-item {
+    display: grid !important;
+    grid-template-columns: 20% 20% 20% 20%;
+  }
+
+  .third-card,
+  .fourth-card {
+    margin-top: 0% !important;
+  }
+
+  .top-scroll {
+    display: none;
+  }
+
+  .price-and-place {
+    display: flex;
+  }
+
+  .sb-1 {
+    margin-top: 3% !important;
+  }
+
+  .fa-plus {
+    margin-top: 10%;
+  }
+
+  .price-and-plus {
+    display: flex;
+    justify-content: space-around;
+  }
+}
+
 * {
   margin: 0;
   padding: 0;
@@ -143,7 +176,7 @@ nav {
 
 .carousel-item .btn {
   position: absolute;
-  top: 80%;
+  top: 80% !important;
   left: 66%;
   transform: translate(-50%, -50%);
   -ms-transform: translate(-50%, -50%);
@@ -666,9 +699,11 @@ footer i {
   }
 }
 
-@media only screen and (min-width: 768px) and (max-width: 1024px) {
-  body {
+@media only screen and (min-width: 768px) and (max-width: 1053px) {
+  body,
+  html {
     overflow-x: hidden;
+    min-width: 100%;
     width: 100%;
   }
 
