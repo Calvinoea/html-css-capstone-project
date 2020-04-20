@@ -12,6 +12,119 @@ body {
   margin-bottom: 0;
 }
 
+@media only screen and (min-width: 1057px) and (max-width: 1212px) {
+  .carousel-item {
+    display: grid !important;
+    grid-template-columns: 16% 16% 16% 16%;
+    grid-gap: 1%;
+  }
+
+  .first-card,
+  .second-card,
+  .third-card,
+  .fourth-card {
+    margin-left: 9%;
+    width: 16rem !IMPORTANT;
+    width: 18rem;
+    margin-bottom: -27%;
+  }
+
+  .fourth-card {
+    width: 13rem;
+  }
+
+  .rate label {
+    font-size: 1.5rem !important;
+  }
+
+  .first-card #sb-1 {
+    margin-top: 15% !important;
+  }
+
+  .card-body h5 {
+    font-size: 1.8rem;
+  }
+
+  .rate {
+    margin-left: 35% !important;
+  }
+}
+
+@media only screen and (min-width: 1054px) and (max-width: 1056px) {
+  .top-scroll {
+    display: none;
+  }
+
+  .carousel-item {
+    display: grid !important;
+    grid-template-columns: 16% 16% 16% 16%;
+    grid-gap: 6%;
+  }
+
+  .rate label {
+    font-size: 1.5rem !important;
+  }
+
+  .rate {
+    margin-left: 35% !important;
+  }
+
+  .first-card,
+  .second-card,
+  .third-card,
+  .fourth-card {
+    margin-left: 9%;
+    width: 16rem !IMPORTANT;
+    width: 18rem;
+    margin-bottom: -27%;
+  }
+
+  #sb-1 {
+    margin-top: 17% !important;
+  }
+
+  .second-button {
+    margin-top: 3% !important;
+  }
+
+  .second-card #sb-1 {
+    margin-top: 16% !important;
+  }
+
+  .third-card .fa-plus {
+    margin-top: -1%;
+  }
+
+  .card-body h5 {
+    font-size: 1.8rem;
+  }
+
+  .third-card .shop-button {
+    margin-top: 20% !important;
+  }
+
+  .fourth-card .shop-button {
+    margin-top: 21% !important;
+  }
+
+  .fourth-card .fa-plus {
+    margin-top: -1%;
+  }
+
+  .third-card .card-img-top,
+  .fourth-card .card-img-top {
+    height: 52%;
+  }
+
+  /* .rate {
+                                float: left;
+                                height: 46px;
+                                padding: 0 10px;
+                                margin-left: 24%;
+                                margin-top: -21%;
+                            } */
+}
+
 @media only screen and (min-width: 320px) and (max-width: 320px) and (min-height: 568px) and (max-height: 568px) {
   .carousel-inner {
     margin-left: -2%;
