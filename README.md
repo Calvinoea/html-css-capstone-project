@@ -1,8 +1,18 @@
 # html-css-capstone-project
 
 
+I have used HTML, CSS, Bootstrap, and Fontawesome for the project. It is an e-commerce sports store. Flexbox and Grid were used with Bootstrap to set the structure of the page. JavaScript was used for an additional feature of the page.
 
+Features of the pages include:
 
+Text disappearing and appearing animation
+Radio buttons
+Search bar
+Carousel for items
+Hover of buttons
+Links between pages
+Card/sports stacking feature
+Responsiveness on screens
   
 # What it does  
   
@@ -21,6 +31,8 @@ It is an e-commerce sports store made for the sale of sporting goods.
 - HTML
 - CSS
 - Font Awesome
+- JavaScript
+- JQuery
 
   
 ## Live Project and Presentation
